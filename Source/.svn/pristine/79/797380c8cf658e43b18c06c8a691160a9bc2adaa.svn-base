@@ -1,0 +1,131 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Android\SensorCC2650Test\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from D:\Android\SensorCC2650Test\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from D:\Android\SensorCC2650Test\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from D:\Android\SensorCC2650Test\app\src\main\AndroidManifest.xml:2:1-35:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\quang\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\ed17258a91d01d0ad71daface742ed41\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\quang\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\90015d682a0abd349b03e4cf3618e9a0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\quang\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\a9e3683956c08f13aa4efd402c9c5cad\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\quang\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\9cba7f6e2be64eda0de49ecbb4398a88\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\quang\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\1ea5865a572bfa9f9fc4ce0a38772878\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\quang\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\f0a91a2c74dfc1e6f4b24f74e6b21763\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\quang\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\4fba8f42712b85c879addb7abe1b4747\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\quang\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\6c76c8e2dca863a5fe0785b89d05d80e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\quang\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\15516ceed036e99de4987485bd0327f8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\quang\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\d4e43019d1af1e667fc7f96cedf788ca\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\quang\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3542315706b592b0a375bd61940fb7c6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\quang\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0511ebcab7097a0bcf514f8af85b27c1\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Android\SensorCC2650Test\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from D:\Android\SensorCC2650Test\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from D:\Android\SensorCC2650Test\app\src\main\AndroidManifest.xml:2:1-35:12
+	package
+		ADDED from D:\Android\SensorCC2650Test\app\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from D:\Android\SensorCC2650Test\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\SensorCC2650Test\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Android\SensorCC2650Test\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android\SensorCC2650Test\app\src\main\AndroidManifest.xml:2:1-35:12
+		INJECTED from D:\Android\SensorCC2650Test\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Android\SensorCC2650Test\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android\SensorCC2650Test\app\src\main\AndroidManifest.xml:2:1-35:12
+		INJECTED from D:\Android\SensorCC2650Test\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Android\SensorCC2650Test\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.BLUETOOTH
+ADDED from D:\Android\SensorCC2650Test\app\src\main\AndroidManifest.xml:5:5-68
+	android:name
+		ADDED from D:\Android\SensorCC2650Test\app\src\main\AndroidManifest.xml:5:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from D:\Android\SensorCC2650Test\app\src\main\AndroidManifest.xml:6:5-74
+	android:name
+		ADDED from D:\Android\SensorCC2650Test\app\src\main\AndroidManifest.xml:6:22-71
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\Android\SensorCC2650Test\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from D:\Android\SensorCC2650Test\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\Android\SensorCC2650Test\app\src\main\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from D:\Android\SensorCC2650Test\app\src\main\AndroidManifest.xml:8:22-76
+application
+ADDED from D:\Android\SensorCC2650Test\app\src\main\AndroidManifest.xml:13:5-33:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\quang\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\90015d682a0abd349b03e4cf3618e9a0\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\quang\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\90015d682a0abd349b03e4cf3618e9a0\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from D:\Android\SensorCC2650Test\app\src\main\AndroidManifest.xml:19:9-35
+	android:label
+		ADDED from D:\Android\SensorCC2650Test\app\src\main\AndroidManifest.xml:17:9-41
+	android:roundIcon
+		ADDED from D:\Android\SensorCC2650Test\app\src\main\AndroidManifest.xml:18:9-54
+	android:icon
+		ADDED from D:\Android\SensorCC2650Test\app\src\main\AndroidManifest.xml:16:9-43
+	android:allowBackup
+		ADDED from D:\Android\SensorCC2650Test\app\src\main\AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from D:\Android\SensorCC2650Test\app\src\main\AndroidManifest.xml:20:9-40
+	android:name
+		ADDED from D:\Android\SensorCC2650Test\app\src\main\AndroidManifest.xml:14:9-50
+service#com.example.quang.sensorcc2650test.BluetoothLeService
+ADDED from D:\Android\SensorCC2650Test\app\src\main\AndroidManifest.xml:21:9-23:38
+	android:enabled
+		ADDED from D:\Android\SensorCC2650Test\app\src\main\AndroidManifest.xml:23:13-35
+	android:name
+		ADDED from D:\Android\SensorCC2650Test\app\src\main\AndroidManifest.xml:22:13-47
+activity#com.example.quang.sensorcc2650test.SplashActivity
+ADDED from D:\Android\SensorCC2650Test\app\src\main\AndroidManifest.xml:25:9-31:20
+	android:name
+		ADDED from D:\Android\SensorCC2650Test\app\src\main\AndroidManifest.xml:25:19-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Android\SensorCC2650Test\app\src\main\AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from D:\Android\SensorCC2650Test\app\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from D:\Android\SensorCC2650Test\app\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Android\SensorCC2650Test\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from D:\Android\SensorCC2650Test\app\src\main\AndroidManifest.xml:29:27-74
+activity#com.example.quang.sensorcc2650test.MainActivity
+ADDED from D:\Android\SensorCC2650Test\app\src\main\AndroidManifest.xml:32:9-59
+	android:name
+		ADDED from D:\Android\SensorCC2650Test\app\src\main\AndroidManifest.xml:32:19-47
+uses-sdk
+INJECTED from D:\Android\SensorCC2650Test\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Android\SensorCC2650Test\app\src\main\AndroidManifest.xml
+INJECTED from D:\Android\SensorCC2650Test\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\quang\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\ed17258a91d01d0ad71daface742ed41\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\quang\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\ed17258a91d01d0ad71daface742ed41\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\quang\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\90015d682a0abd349b03e4cf3618e9a0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\quang\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\90015d682a0abd349b03e4cf3618e9a0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\quang\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\a9e3683956c08f13aa4efd402c9c5cad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\quang\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\a9e3683956c08f13aa4efd402c9c5cad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\quang\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\9cba7f6e2be64eda0de49ecbb4398a88\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\quang\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\9cba7f6e2be64eda0de49ecbb4398a88\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\quang\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\1ea5865a572bfa9f9fc4ce0a38772878\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\quang\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\1ea5865a572bfa9f9fc4ce0a38772878\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\quang\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\f0a91a2c74dfc1e6f4b24f74e6b21763\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\quang\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\f0a91a2c74dfc1e6f4b24f74e6b21763\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\quang\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\4fba8f42712b85c879addb7abe1b4747\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\quang\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\4fba8f42712b85c879addb7abe1b4747\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\quang\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\6c76c8e2dca863a5fe0785b89d05d80e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\quang\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\6c76c8e2dca863a5fe0785b89d05d80e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\quang\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\15516ceed036e99de4987485bd0327f8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\quang\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\15516ceed036e99de4987485bd0327f8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\quang\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\d4e43019d1af1e667fc7f96cedf788ca\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\quang\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\d4e43019d1af1e667fc7f96cedf788ca\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\quang\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3542315706b592b0a375bd61940fb7c6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\quang\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3542315706b592b0a375bd61940fb7c6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\quang\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0511ebcab7097a0bcf514f8af85b27c1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\quang\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0511ebcab7097a0bcf514f8af85b27c1\AndroidManifest.xml:20:5-44
+INJECTED from D:\Android\SensorCC2650Test\app\src\main\AndroidManifest.xml
+INJECTED from D:\Android\SensorCC2650Test\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Android\SensorCC2650Test\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android\SensorCC2650Test\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\SensorCC2650Test\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Android\SensorCC2650Test\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android\SensorCC2650Test\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\SensorCC2650Test\app\src\main\AndroidManifest.xml
